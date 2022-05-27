@@ -1,4 +1,4 @@
-FROM python:3.9.6-slim
+FROM python:3.9.12-slim
 
 RUN pip install -U awscli==1.19.105
 
